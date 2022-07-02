@@ -8,4 +8,7 @@ So I designed my own. It includes diodes and small capacitors for each button, t
 
 When the code is ready to release, I'll update this to include a sample.
 
-CC BY-SA 4.0
+If you'd like to order the project for yourself:
+- The project page at Aisler: https://aisler.net/p/VKKEEBOR
+
+*CC BY-SA 4.0*
