@@ -9,6 +9,7 @@ So I designed my own. It includes diodes and small capacitors for each button, t
 When the code is ready to release, I'll update this to include a sample.
 
 If you'd like to order the project for yourself:
+- The project page at PCBWay: https://www.pcbway.com/project/shareproject/2x2_Button_Matrix_def44599.html
 - The project page at Aisler: https://aisler.net/p/VKKEEBOR
 
 *CC BY-SA 4.0*
