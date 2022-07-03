@@ -12,4 +12,4 @@ If you'd like to order the project for yourself:
 - The project page at PCBWay: https://www.pcbway.com/project/shareproject/2x2_Button_Matrix_def44599.html
 - The project page at Aisler: https://aisler.net/p/VKKEEBOR
 
-*CC BY-SA 4.0*
+[*CC BY-SA 4.0*](https://creativecommons.org/licenses/by-sa/4.0/)
